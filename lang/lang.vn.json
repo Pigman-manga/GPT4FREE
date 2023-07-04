@@ -1,0 +1,87 @@
+{
+    "language_name": "Tiếng Việt",
+    "language_code": "vn",
+  
+    "on_msg_err": "⚠️ Xin lỗi vì bất kỳ sự bất tiện nào. Có vẻ đã xảy ra lỗi khi gửi tin nhắn của tôi.",
+  
+    "pfp": "Thay đổi ảnh đại diện của bot bằng URL hình ảnh",
+    "pfp_change_msg_1": "Vui lòng cung cấp URL hình ảnh hoặc đính kèm hình ảnh cho lệnh này",
+    "pfp_change_msg_2": "Ảnh đại diện đã được thay đổi thành công",
+  
+    "ping": "PONG! Hiển thị độ trễ của bot",
+    "ping_msg": "Pong! Độ trễ: ",
+  
+    "changeusr": "Thay đổi tên thực của bot",
+    "changeusr_msg_1": "Đang cố gắng thay đổi tên người dùng....",
+    "changeusr_msg_2_part_1": "Xin lỗi, tên người dùng '",
+    "changeusr_msg_2_part_2": "' đã được sử dụng.",
+    "changeusr_msg_3": "Tên người dùng đã được thay đổi thành ",
+  
+    "toggledm": "Bật/tắt tin nhắn riêng",
+    "toggleactive": "Bật/tắt kênh hoạt động",
+    "toggleactive_msg_1": "đã bị xóa khỏi danh sách kênh hoạt động.",
+    "toggleactive_msg_2": "đã được thêm vào danh sách kênh hoạt động!",
+  
+    "help": "Lấy danh sách tất cả các lệnh khác!",
+    "help_footer": "Được tạo bởi Mishal#1916!",
+    "help_title": "Các lệnh của bot",
+    "help_cmd_err": "Không có mô tả có sẵn",
+  
+    "nekos": "Hiển thị hình ảnh hoặc GIF ngẫu nhiên từ neko, waifu, husbando, kitsune hoặc hành động khác",
+    "nekos_msg": "Danh mục không hợp lệ. Các danh mục hợp lệ: ",
+  
+    "imagine": "Tạo hình ảnh",
+    
+    "imagine_prompt": "Hãy viết một câu hỏi tuyệt vời để tạo hình ảnh",
+    "imagine_prompt_eh": "Viết một câu hỏi tuyệt vời mà không cần sử dụng câu hỏi cơ bản",
+    
+    "imagine_prompt_eh_yes": "😭 Xin vui lòng giúp tôi",
+    "imagine_prompt_eh_no": "😤 Cho phép tôi sử dụng câu hỏi của riêng bạn",
+  
+    "imagine_prompt_warning": "Câu hỏi của bạn chứa nội dung có thể nhạy cảm hoặc không chấp nhận được.\nVui lòng xem lại câu hỏi của bạn.",
+    "imagine_seed": "Số được sử dụng để khởi tạo quá trình tạo",
+    "imagine_cfg": "Cài đặt điều khiển mức độ chính xác mà Stable Diffusion nên tuân theo yêu cầu văn bản của bạn",
+    "imagine_steps": "Tham số này điều khiển số lượng các bước làm sạch này. Thông thường, càng cao càng tốt nhưng có một mức độ nhất định.",
+    "imagine_negative": "Câu hỏi cho biết bạn không muốn mô hình tạo ra",
+    "imagine_model": "Mô hình nên được sử dụng cho việc tạo hình ảnh",
+    "imagine_style": "Điều khiển phong cách tạo hình ảnh của bạn",
+    "imagine_ratio": "Tỷ lệ hình ảnh",
+    "imagine_upscale": "Cải thiện chất lượng hình ảnh được tạo ra bằng Stable Diffusion",
+    
+    "imagine_footer_nsfw": "⚠️ Lưu ý rằng hình ảnh được tạo ra có thể chứa nội dung người lớn. Không khuyến khích cho người dùng chưa thành niên.",
+    "imagine_image_error": "Vui lòng thử lại lệnh",
+  
+    "imagine_msg": "Đây là hình ảnh của bạn",
+    "imagine_msg_nsfw": "Đây là hình ảnh mà bạn yêu cầu, vui lòng lưu ý rằng nó có thể không phù hợp để làm việc (NSFW).",
+    
+    "imagine-poly": "Tạo hình ảnh sử dụng Pollinations",
+  
+    "ask": "Hỏi các mô hình LLM khác nhau.",
+    "ask_prompt": "Hãy viết một câu hỏi tuyệt vời để hỏi",
+  
+    "remix": "Tạo lại hình ảnh bằng cách sử dụng controlnet",
+    "remix_title": "Hình ảnh đã được tạo lại",
+    "remix_prompt": "Hãy viết một câu hỏi tuyệt vời để sử dụng controlnet",
+    "remix_control": "Tích hợp để cải thiện controlnet",
+    "remix_attachment": "Hình ảnh để tạo lại.",
+  
+    "remove-bg": "Xóa nền của hình ảnh",
+    "remove-bg_msg": "Đã xóa nền thành công",
+  
+    "bonk": "Xóa lịch sử tin nhắn bạn đã gửi",
+    "bonk_msg": "Lịch sử tin nhắn đã được xóa!",
+    "bonk_error_msg": "⚠️ Không thể xóa lịch sử tin nhắn. Không có lịch sử để xóa.",
+  
+    "YES": "✅ Có",
+    "NO": "❌ Không, cảm ơn",
+  
+    "describe": "Viết mô tả dựa trên hình ảnh.",
+  
+    "command_err_admin": "⚠️ Bạn không có quyền sử dụng lệnh này.",
+    "command_err_owner": "⚠️ Chỉ chủ sở hữu bot mới có thể sử dụng lệnh này.",
+    "image_error": "⚠️ Vui lòng tải lên tệp hình ảnh.",
+  
+    "upscale": "Phóng to hình ảnh",
+    "upscale_warning": "⚠️ Phóng to chỉ hiển thị rõ ràng khi mở hình ảnh trong trình duyệt.\nBạn có thể làm điều này bằng cách nhấp vào hình ảnh"
+  }
+  

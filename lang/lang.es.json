@@ -1,0 +1,87 @@
+{
+    "language_name": "Español",
+    "language_code": "es",
+  
+    "on_msg_err": "⚠️ Lamento cualquier inconveniente causado. Parece que hubo un error que impidió la entrega de mi mensaje.",
+  
+    "pfp": "Cambiar la foto de perfil del bot usando una URL de imagen",
+    "pfp_change_msg_1": "Por favor, proporciona una URL de imagen o adjunta una imagen para este comando",
+    "pfp_change_msg_2": "Foto de perfil cambiada exitosamente",
+  
+    "ping": "¡PONG! Proporciona la latencia del bot",
+    "ping_msg": "¡Pong! Latencia: ",
+  
+    "changeusr": "Cambiar el nombre de usuario actual del bot",
+    "changeusr_msg_1": "Intentando cambiar el nombre de usuario....",
+    "changeusr_msg_2_part_1": "Lo siento, el nombre de usuario '",
+    "changeusr_msg_2_part_2": "' ya está en uso.",
+    "changeusr_msg_3": "Nombre de usuario cambiado a ",
+  
+    "toggledm": "Activar o desactivar los mensajes directos para chatear",
+    "toggleactive": "Activar o desactivar los canales activos",
+    "toggleactive_msg_1": "ha sido eliminado de la lista de canales activos.",
+    "toggleactive_msg_2": "ha sido añadido a la lista de canales activos!",
+  
+    "help": "¡Obtén todos los demás comandos!",
+    "help_footer": "¡Creado por Mishal#1916!",
+    "help_title": "Comandos del Bot",
+    "help_cmd_err": "No hay descripción disponible",
+  
+    "nekos": "Mostrar una imagen o GIF aleatorio de un neko, waifu, husbando, kitsune u otras acciones",
+    "nekos_msg": "Categoría no válida proporcionada. Las categorías válidas son: ",
+  
+    "imagine": "Generar una imagen",
+    
+    "imagine_prompt": "Escribe una increíble indicación para una imagen",
+    "imagine_prompt_eh": "Escribe una gran indicación sin esfuerzo con la ayuda de una indicación base",
+    
+    "imagine_prompt_eh_yes": "😭 Por favor, ayúdame",
+    "imagine_prompt_eh_no": "😤 Déjame usar mi propia indicación",
+  
+    "imagine_prompt_warning": "Tu indicación potencialmente contiene contenido sensible o inapropiado.\nPor favor, revisa tu indicación.",
+    "imagine_seed": "Un número utilizado para inicializar la generación",
+    "imagine_cfg": "La configuración que controla qué tan de cerca debe seguir Stable Diffusion su texto de referencia",
+    "imagine_steps": "Este parámetro controla la cantidad de estos pasos de eliminación de ruido. Por lo general, más es mejor, pero hasta cierto punto.",
+    "imagine_negative": "Indicación que especifica lo que no quieres que el modelo genere",
+    "imagine_model": "Modelo que se debe usar para la creación de imágenes",
+    "imagine_style": "Toma el control sobre el estilo de tus generaciones de imágenes",
+    "imagine_ratio": "Relación de imágenes",
+    "imagine_upscale": "Para mejorar la calidad de las imágenes generadas por Stable Diffusion",
+    
+    "imagine_footer_nsfw": "⚠️ Por favor, ten en cuenta que la imagen generada que estás a punto de ver puede contener contenido explícito. Se recomienda que los menores no continúen.",
+    "imagine_image_error": "Por favor, invoca el comando de nuevo",
+    
+    "imagine_msg": "Aquí está tu imagen",
+    "imagine_msg_nsfw": "Aquí está la imagen que solicitaste, ten en cuenta que puede o no ser adecuada para el trabajo (NSFW).",
+    
+    "imagine-poly": "Generar imágenes utilizando Pollinations",
+  
+    "ask": "Preguntar a diferentes modelos de LLM.",
+    "ask_prompt": "Escribe una increíble indicación para preguntar",
+  
+    "remix": "Realiza una mezcla de imágenes utilizando controlnet",
+    "remix_title": "Imagen mezclada",
+    "remix_prompt": "Escribe una increíble indicación para que controlnet la use.",
+    "remix_control": "Integración para mejorar controlnet",
+    "remix_attachment": "La imagen a mezclar.",
+  
+    "remove-bg": "Elimina el fondo de una imagen",
+    "remove-bg_msg": "El fondo ha sido eliminado",
+  
+    "bonk": "Borrar el historial de mensajes enviados por ti",
+    "bonk_msg": "¡El historial de mensajes ha sido borrado!",
+    "bonk_error_msg": "⚠️ No se puede borrar el historial de mensajes. No hay historial para borrar.",
+  
+    "YES": "✅ Sí",
+    "NO": "❌ No, gracias",
+  
+    "describe": "Escribe una indicación basada en la imagen.",
+  
+    "command_err_admin": "⚠️ No tienes permiso para utilizar este comando.",
+    "command_err_owner": "⚠️ Solo el propietario del bot puede utilizar este comando.",
+    "image_error": "⚠️ Por favor, sube un archivo de imagen.",
+  
+    "upscale": "Ampliar una imagen",
+    "upscale_warning": "⚠️ La ampliación solo es perceptible cuando se abre la imagen en un navegador.\nPuedes hacer esto haciendo clic en la imagen"
+  }
+  
